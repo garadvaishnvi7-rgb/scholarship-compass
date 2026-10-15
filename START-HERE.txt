@@ -1,0 +1,14 @@
+SCHOLARSHIP COMPASS - FINAL PROJECT
+
+1. Extract this ZIP.
+2. Open personal-guide.html for your private learning notes and diagrams.
+3. To run the website, open a terminal in this folder and run:
+   node server.cjs
+4. Open http://localhost:4173 in your browser.
+5. Press Ctrl+C in the terminal to stop the local server.
+
+Node.js is required for the server and tests. No npm installation is needed.
+Only dist is the website folder. Keep personal-guide.html outside hosting uploads.
+Read README.md for setup, testing, editing and scope.
+
+Run automated checks: node tests.cjs
